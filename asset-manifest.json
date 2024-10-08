@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/binge-buddy/static/css/main.ab58788a.css",
+    "main.js": "/binge-buddy/static/js/main.62ca020d.js",
+    "static/js/453.8e1c9744.chunk.js": "/binge-buddy/static/js/453.8e1c9744.chunk.js",
+    "index.html": "/binge-buddy/index.html",
+    "main.ab58788a.css.map": "/binge-buddy/static/css/main.ab58788a.css.map",
+    "main.62ca020d.js.map": "/binge-buddy/static/js/main.62ca020d.js.map",
+    "453.8e1c9744.chunk.js.map": "/binge-buddy/static/js/453.8e1c9744.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab58788a.css",
+    "static/js/main.62ca020d.js"
+  ]
+}
